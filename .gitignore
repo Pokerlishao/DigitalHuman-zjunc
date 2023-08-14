@@ -1,6 +1,4 @@
-output.wav
-/tts/__pycache__
-/tts/output.wav
-/stt/__pycache__
+__pycache__/
+*.wav
 /stt/checkpoint/medium.pt
 /tts/checkpoint/G_latest.pth
